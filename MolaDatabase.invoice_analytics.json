@@ -1,0 +1,4242 @@
+[{
+  "_id": {
+    "$oid": "68dcf96feff30cffd6da28a2"
+  },
+  "date": "2023-01-18",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7788000,
+  "total_tax": 708000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:40.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf96feff30cffd6da28a4"
+  },
+  "date": "2023-01-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200785926",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ĐẠI LÝ VÀ MÔI GIỚI VẬN TẢI BIỂN QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 7682400,
+  "total_tax": 698400,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:40.426Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf970eff30cffd6da28a6"
+  },
+  "date": "2023-01-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0109988726",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH VẬN TẢI DẦU KHÍ HÀ TRANG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 35400000,
+  "total_tax": 3218182,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:40.839Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf970eff30cffd6da28a8"
+  },
+  "date": "2023-01-12",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 825000,
+  "total_tax": 75000,
+  "payment_method": "Tiền mặt",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:41.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf971eff30cffd6da28aa"
+  },
+  "date": "2023-01-10",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501473524",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CẢNG QUỐC TẾ TÂN CẢNG - CÁI MÉP",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 11000000,
+  "total_tax": 1000000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:41.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf971eff30cffd6da28ac"
+  },
+  "date": "2023-01-10",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200785926",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ĐẠI LÝ VÀ MÔI GIỚI VẬN TẢI BIỂN QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 4658000,
+  "total_tax": 423455,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:42.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf971eff30cffd6da28ae"
+  },
+  "date": "2023-01-10",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 10505915,
+  "total_tax": 955083,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:42.462Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf972eff30cffd6da28b0"
+  },
+  "date": "2023-01-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 600000,
+  "total_tax": 54545,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:42.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf972eff30cffd6da28b2"
+  },
+  "date": "2023-01-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313428354",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 18.1",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 880000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:43.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf973eff30cffd6da28b4"
+  },
+  "date": "2023-01-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313428354",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 18.1",
+  "total_invoices": 1,
+  "total_items": 3,
+  "total_revenue": 1760000,
+  "total_tax": 160000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:43.554Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf973eff30cffd6da28b6"
+  },
+  "date": "2023-01-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303163028",
+  "month": "2023-01",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI H.C.E",
+  "total_invoices": 1,
+  "total_items": 3,
+  "total_revenue": 4400000,
+  "total_tax": 400000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:50:43.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf9faeff30cffd6da28b9"
+  },
+  "date": "2024-01-29",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 83389460,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:00.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf9fbeff30cffd6da28bd"
+  },
+  "date": "2024-01-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 15743000,
+  "total_tax": 1166148,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:06.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf9ffeff30cffd6da28cb"
+  },
+  "date": "2024-01-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "5400101273",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 10",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1080000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:07.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf9ffeff30cffd6da28cd"
+  },
+  "date": "2024-01-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 26703447,
+  "total_tax": 1978033,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:07.922Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf9ffeff30cffd6da28cf"
+  },
+  "date": "2024-01-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 35669335,
+  "total_tax": 2642173,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn đã bị điều chỉnh",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:08.412Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcf9ffeff30cffd6da28d0"
+  },
+  "date": "2024-01-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0300390921",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 18",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2700000,
+  "total_tax": 200000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:08.924Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa00eff30cffd6da28d1"
+  },
+  "date": "2024-01-18",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 11831298,
+  "total_tax": 876392,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:09.457Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa00eff30cffd6da28d2"
+  },
+  "date": "2024-01-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0314679463",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ PHÁT TRIỂN KỸ THUẬT CƠ ĐIỆN LẠNH QUANG MINH",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 648000,
+  "total_tax": 48000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:09.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa00eff30cffd6da28d3"
+  },
+  "date": "2024-01-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3700778489",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN PHỤ KIỆN VÀ NHÀ THÉP NHẤT",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 2268000,
+  "total_tax": 168000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn đã bị hủy",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:10.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa01eff30cffd6da28d4"
+  },
+  "date": "2024-01-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0310524109",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN KỸ THUẬT MÔI TRƯỜNG VIỆT AN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 648000,
+  "total_tax": 48000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:10.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa01eff30cffd6da28d5"
+  },
+  "date": "2024-01-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 26531780,
+  "total_tax": 1965317,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:11.484Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa01eff30cffd6da28d6"
+  },
+  "date": "2024-01-11",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3502236798",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CJ FOODS VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 4,
+  "total_revenue": 12420000,
+  "total_tax": 920000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:12.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa02eff30cffd6da28d7"
+  },
+  "date": "2024-01-11",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 486000,
+  "total_tax": 36000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:12.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa02eff30cffd6da28d8"
+  },
+  "date": "2024-01-11",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313796710",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN XÂY DỰNG LÊ NGUYỄN",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 2130000,
+  "total_tax": 157778,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:13.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa03eff30cffd6da28d9"
+  },
+  "date": "2024-01-07",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 38803810,
+  "total_tax": 2874356,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:13.533Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfa03eff30cffd6da28da"
+  },
+  "date": "2024-01-07",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3001806817",
+  "month": "2024-01",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MTV THƯƠNG MẠI VÀ TIẾP VẬN BẢO TÍN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 6912000,
+  "total_tax": 512000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:19:14.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfad9eff30cffd6da28dd"
+  },
+  "date": "2023-03-26",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0104912353",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ XÂY DỰNG LONG VŨ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 825000,
+  "total_tax": 75000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:42.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadaeff30cffd6da28df"
+  },
+  "date": "2023-03-23",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200785926",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ĐẠI LÝ VÀ MÔI GIỚI VẬN TẢI BIỂN QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 11670000,
+  "total_tax": 1060909,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:42.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadaeff30cffd6da28e1"
+  },
+  "date": "2023-03-23",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303085570",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY LIÊN DOANH BỘT QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 4450000,
+  "total_tax": 404545,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:42.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadaeff30cffd6da28e3"
+  },
+  "date": "2023-03-23",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0104912353",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ XÂY DỰNG LONG VŨ",
+  "total_invoices": 1,
+  "total_items": 3,
+  "total_revenue": 2475000,
+  "total_tax": 225000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:43.056Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadaeff30cffd6da28e5"
+  },
+  "date": "2023-03-22",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313428354",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 18.1",
+  "total_invoices": 1,
+  "total_items": 5,
+  "total_revenue": 4675000,
+  "total_tax": 425000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:43.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadbeff30cffd6da28e7"
+  },
+  "date": "2023-03-20",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 2600000,
+  "total_tax": 236364,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:43.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadbeff30cffd6da28e9"
+  },
+  "date": "2023-03-20",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200122277",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH VIỆT HẢI",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 8800000,
+  "total_tax": 800000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:43.818Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadbeff30cffd6da28eb"
+  },
+  "date": "2023-03-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303085570",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY LIÊN DOANH BỘT QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2230000,
+  "total_tax": 202727,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:44.080Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadbeff30cffd6da28ed"
+  },
+  "date": "2023-03-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 825000,
+  "total_tax": 75000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:44.329Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadceff30cffd6da28ef"
+  },
+  "date": "2023-03-10",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0316174161",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ABC VIETNAM MANUFACTURING & SOURCING",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 660000,
+  "total_tax": 60000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:44.590Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadceff30cffd6da28f1"
+  },
+  "date": "2023-03-09",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313428354",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 18.1",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1600000,
+  "total_tax": 145455,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:44.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadceff30cffd6da28f3"
+  },
+  "date": "2023-03-09",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 19671808,
+  "total_tax": 1788346,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:45.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadceff30cffd6da28f5"
+  },
+  "date": "2023-03-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0316174161",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ABC VIETNAM MANUFACTURING & SOURCING",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1100000,
+  "total_tax": 100000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:45.362Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfaddeff30cffd6da28f7"
+  },
+  "date": "2023-03-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0315387248",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN ALLSEA DMCC",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 12998150,
+  "total_tax": 1181650,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:45.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfaddeff30cffd6da28f9"
+  },
+  "date": "2023-03-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200785926",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ĐẠI LÝ VÀ MÔI GIỚI VẬN TẢI BIỂN QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 11745000,
+  "total_tax": 1067727,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:46.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfaddeff30cffd6da28fb"
+  },
+  "date": "2023-03-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 3100000,
+  "total_tax": 281818,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:46.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadeeff30cffd6da28fd"
+  },
+  "date": "2023-03-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "1100790071",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH SẢN XUẤT - THƯƠNG MẠI - DỊCH VỤ ÔTÔ QUYỀN",
+  "total_invoices": 1,
+  "total_items": 7,
+  "total_revenue": 8250000,
+  "total_tax": 750000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:46.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfadeeff30cffd6da28ff"
+  },
+  "date": "2023-03-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-03",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7807800,
+  "total_tax": 709800,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T16:56:47.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4aeff30cffd6da2904"
+  },
+  "date": "2023-05-24",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0310734321",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN AZB",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1320000,
+  "total_tax": 120000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:51.015Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4aeff30cffd6da2906"
+  },
+  "date": "2023-05-24",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "2802930684",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN OLDENDORFF CARRIERS VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 15639360,
+  "total_tax": 1421760,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:51.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4beff30cffd6da2908"
+  },
+  "date": "2023-05-24",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 22978072,
+  "total_tax": 2088916,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:52.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4beff30cffd6da290c"
+  },
+  "date": "2023-05-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1650000,
+  "total_tax": 150000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:52.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4ceff30cffd6da290e"
+  },
+  "date": "2023-05-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0316174161",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ABC VIETNAM MANUFACTURING & SOURCING",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 770000,
+  "total_tax": 70000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:52.481Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4ceff30cffd6da2910"
+  },
+  "date": "2023-05-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7796250,
+  "total_tax": 708750,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:52.723Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4ceff30cffd6da2912"
+  },
+  "date": "2023-05-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200785926",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ĐẠI LÝ VÀ MÔI GIỚI VẬN TẢI BIỂN QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 23047200,
+  "total_tax": 2095200,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:52.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4ceff30cffd6da2914"
+  },
+  "date": "2023-05-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3502236798",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CJ FOODS VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 7,
+  "total_revenue": 13200000,
+  "total_tax": 1200000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:53.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4deff30cffd6da2916"
+  },
+  "date": "2023-05-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3700778489",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN PHỤ KIỆN VÀ NHÀ THÉP NHẤT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 770000,
+  "total_tax": 70000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:53.533Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4deff30cffd6da2918"
+  },
+  "date": "2023-05-12",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7801200,
+  "total_tax": 709200,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:54.013Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4deff30cffd6da291b"
+  },
+  "date": "2023-05-12",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303085570",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY LIÊN DOANH BỘT QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 8860000,
+  "total_tax": 805455,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:54.250Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4eeff30cffd6da291d"
+  },
+  "date": "2023-05-09",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "5900344570",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MỘT THÀNH VIÊN ĐÔNG SƠN",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1760000,
+  "total_tax": 160000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:54.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4eeff30cffd6da291f"
+  },
+  "date": "2023-05-09",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 12160616,
+  "total_tax": 1105510,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:54.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4eeff30cffd6da2921"
+  },
+  "date": "2023-05-09",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 2800000,
+  "total_tax": 254546,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:54.969Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4eeff30cffd6da2923"
+  },
+  "date": "2023-05-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0316597262",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH VINACHAKI",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2530000,
+  "total_tax": 230000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:55.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4feff30cffd6da2925"
+  },
+  "date": "2023-05-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200785926",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ĐẠI LÝ VÀ MÔI GIỚI VẬN TẢI BIỂN QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 11640000,
+  "total_tax": 1058182,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:55.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4feff30cffd6da2927"
+  },
+  "date": "2023-05-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3001806817",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MTV THƯƠNG MẠI VÀ TIẾP VẬN BẢO TÍN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1760000,
+  "total_tax": 160000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:55.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc4feff30cffd6da292a"
+  },
+  "date": "2023-05-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 2600000,
+  "total_tax": 236364,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:56.440Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc50eff30cffd6da292d"
+  },
+  "date": "2023-05-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3001806817",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MTV THƯƠNG MẠI VÀ TIẾP VẬN BẢO TÍN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 15840000,
+  "total_tax": 1440000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn đã bị hủy",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:56.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc50eff30cffd6da292f"
+  },
+  "date": "2023-05-02",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0315457618",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH POWERCHINA SICHUAN ENGINEERING CORPORATION LIMITED TẠI VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2200000,
+  "total_tax": 200000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:56.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68dcfc50eff30cffd6da2931"
+  },
+  "date": "2023-05-30",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2023-05",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1650000,
+  "total_tax": 150000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-01T17:02:57.157Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea6bf64c810a1d7496f4"
+  },
+  "date": "2023-07-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303085570",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY LIÊN DOANH BỘT QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 8640000,
+  "total_tax": 640000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:36:59.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea6bf64c810a1d7496f6"
+  },
+  "date": "2023-07-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301745020-001",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY BẢO HIỂM QBE VIỆT NAM TẠI HÀ NỘI",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 31344720,
+  "total_tax": 2849520,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:36:59.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea6cf64c810a1d7496f8"
+  },
+  "date": "2023-07-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0314115386",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN PROSTOCK VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 324000,
+  "total_tax": 24000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:00.059Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea6cf64c810a1d7496fa"
+  },
+  "date": "2023-07-24",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301471348-001",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY TNHH COSCO SHIPPING LINES (VIỆT NAM) TẠI HẢI PHÒNG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 11915000,
+  "total_tax": 882593,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:00.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea6df64c810a1d7496fc"
+  },
+  "date": "2023-07-23",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "MUR SHIPPING B.V.",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 92753472,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:01.894Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea6ef64c810a1d749700"
+  },
+  "date": "2023-07-21",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0310734321",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN AZB",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1296000,
+  "total_tax": 96000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:02.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea6ef64c810a1d749702"
+  },
+  "date": "2023-07-20",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0315387248",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN ALLSEA DMCC",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 46907878,
+  "total_tax": 3474658,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn đã bị hủy",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:02.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea6ff64c810a1d749704"
+  },
+  "date": "2023-07-20",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "2802930684",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN OLDENDORFF CARRIERS VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 25632720,
+  "total_tax": 1898720,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:03.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea6ff64c810a1d749706"
+  },
+  "date": "2023-07-20",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 3,
+  "total_revenue": 4400000,
+  "total_tax": 325926,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:03.549Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea70f64c810a1d749708"
+  },
+  "date": "2023-07-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7711200,
+  "total_tax": 571200,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:04.556Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea71f64c810a1d74970b"
+  },
+  "date": "2023-07-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200550498",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH GIÁM ĐỊNH BẢO ĐỊNH",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 23750000,
+  "total_tax": 2159091,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:04.986Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea71f64c810a1d74970d"
+  },
+  "date": "2023-07-12",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1620000,
+  "total_tax": 120000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:05.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea71f64c810a1d74970f"
+  },
+  "date": "2023-07-12",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 2700000,
+  "total_tax": 200000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:06.500Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea72f64c810a1d749713"
+  },
+  "date": "2023-07-12",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7724160,
+  "total_tax": 572160,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:06.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea73f64c810a1d749715"
+  },
+  "date": "2023-07-11",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3700778489",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN PHỤ KIỆN VÀ NHÀ THÉP NHẤT",
+  "total_invoices": 1,
+  "total_items": 6,
+  "total_revenue": 15444000,
+  "total_tax": 1144000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:07.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea73f64c810a1d749717"
+  },
+  "date": "2023-07-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303942659",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN TƯ VẤN ĐẦU TƯ VÀ XÂY LẮP ĐIỆN SỐ NĂM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 648000,
+  "total_tax": 48000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:07.547Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea74f64c810a1d749719"
+  },
+  "date": "2023-07-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0314231015",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH DỊCH VỤ VẬN TẢI TÂM PHƯỚC",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2592000,
+  "total_tax": 192000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:07.933Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5ea74f64c810a1d74971b"
+  },
+  "date": "2023-07-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3700778489",
+  "month": "2023-07",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN PHỤ KIỆN VÀ NHÀ THÉP NHẤT",
+  "total_invoices": 1,
+  "total_items": 7,
+  "total_revenue": 38772000,
+  "total_tax": 2872000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T11:37:08.985Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab0f64c810a1d74971e"
+  },
+  "date": "2023-08-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0315387248",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN ALLSEA MANAGEMENT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 46907878,
+  "total_tax": 3474658,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:20.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab0f64c810a1d749720"
+  },
+  "date": "2023-08-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1620000,
+  "total_tax": 120000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:20.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab1f64c810a1d749722"
+  },
+  "date": "2023-08-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 3240000,
+  "total_tax": 240000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:21.451Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab3f64c810a1d749724"
+  },
+  "date": "2023-08-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 2900000,
+  "total_tax": 214814,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:21.960Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab3f64c810a1d749726"
+  },
+  "date": "2023-08-21",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303564453",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN DỊCH VỤ VÀ KỸ THUẬT ĐƯỜNG BIỂN THÁI BÌNH DƯƠNG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 540000,
+  "total_tax": 40000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:22.473Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab4f64c810a1d749728"
+  },
+  "date": "2023-08-20",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301471348-001",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY TNHH COSCO SHIPPING LINES (VIỆT NAM) TẠI HẢI PHÒNG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7191000,
+  "total_tax": 532667,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:22.986Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab5f64c810a1d74972a"
+  },
+  "date": "2023-08-20",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 2538000,
+  "total_tax": 188000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:23.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab5f64c810a1d74972c"
+  },
+  "date": "2023-08-15",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 2700000,
+  "total_tax": 200000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:24.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab6f64c810a1d74972e"
+  },
+  "date": "2023-08-15",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 22647887,
+  "total_tax": 1677621,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:24.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab8f64c810a1d749730"
+  },
+  "date": "2023-08-14",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301745020-001",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY BẢO HIỂM QBE VIỆT NAM TẠI HÀ NỘI",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 69613115,
+  "total_tax": 6328465,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:25.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eab9f64c810a1d749732"
+  },
+  "date": "2023-08-11",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3700778489",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN PHỤ KIỆN VÀ NHÀ THÉP NHẤT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 864000,
+  "total_tax": 64000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:25.548Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eabaf64c810a1d749734"
+  },
+  "date": "2023-08-11",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "1201493597",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH TC LỘC PHÁT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2160000,
+  "total_tax": 160000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:26.056Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eabaf64c810a1d749736"
+  },
+  "date": "2023-08-09",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "1201493597",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH TC LỘC PHÁT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2160000,
+  "total_tax": 160000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn đã bị hủy",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:26.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eabbf64c810a1d749738"
+  },
+  "date": "2023-08-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7743600,
+  "total_tax": 573600,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:27.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eabbf64c810a1d74973a"
+  },
+  "date": "2023-08-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303085570",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY LIÊN DOANH BỘT QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2160000,
+  "total_tax": 160000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:27.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eabcf64c810a1d74973c"
+  },
+  "date": "2023-08-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1620000,
+  "total_tax": 120000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:28.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eabcf64c810a1d74973e"
+  },
+  "date": "2023-08-01",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200122277",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH VIỆT HẢI",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 10800000,
+  "total_tax": 800000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:29.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eabdf64c810a1d749740"
+  },
+  "date": "2023-08-30",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 23782813,
+  "total_tax": 1761690,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:29.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eabdf64c810a1d749742"
+  },
+  "date": "2023-08-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0314231015",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH DỊCH VỤ VẬN TẢI TÂM PHƯỚC",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 3024000,
+  "total_tax": 224000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:30.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e5eabef64c810a1d749744"
+  },
+  "date": "2023-08-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3702783300",
+  "month": "2023-08",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CÔNG NGHỆ BA DƯƠNG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 756000,
+  "total_tax": 56000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:08:30.870Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c88f64c810a1d749770"
+  },
+  "date": "2023-10-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 810000,
+  "total_tax": 60000,
+  "payment_method": "Tiền mặt",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:48.498Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c89f64c810a1d749772"
+  },
+  "date": "2023-10-24",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 3000000,
+  "total_tax": 222222,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:48.910Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c89f64c810a1d749774"
+  },
+  "date": "2023-10-24",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301745020-001",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY BẢO HIỂM QBE VIỆT NAM TẠI HÀ NỘI",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 200572449,
+  "total_tax": 18233859,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:49.320Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c89f64c810a1d749776"
+  },
+  "date": "2023-10-24",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313796710",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN XÂY DỰNG LÊ NGUYỄN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1620000,
+  "total_tax": 120000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:49.824Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8af64c810a1d749778"
+  },
+  "date": "2023-10-23",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3001806817",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MTV THƯƠNG MẠI VÀ TIẾP VẬN BẢO TÍN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 12096000,
+  "total_tax": 896000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:50.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8af64c810a1d74977a"
+  },
+  "date": "2023-10-18",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "ANDREW LIU & COMPANY LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 13786000,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:51.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8bf64c810a1d74977d"
+  },
+  "date": "2023-10-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313941012",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH XÂY DỰNG VÀ DỊCH VỤ GOLDEN CHANCE",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 216000,
+  "total_tax": 16000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:51.469Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8bf64c810a1d74977f"
+  },
+  "date": "2023-10-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0110426168",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CÔNG NGHỆ PCCC VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 648000,
+  "total_tax": 48000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:51.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8cf64c810a1d749781"
+  },
+  "date": "2023-10-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "ASP TRADE S.A",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 33392880,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:52.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8cf64c810a1d749783"
+  },
+  "date": "2023-10-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313796710",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN XÂY DỰNG LÊ NGUYỄN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1080000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:52.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8df64c810a1d749785"
+  },
+  "date": "2023-10-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 3240000,
+  "total_tax": 240000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:53.109Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8df64c810a1d749787"
+  },
+  "date": "2023-10-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "5400101273",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 10",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1728000,
+  "total_tax": 128000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:53.924Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8ef64c810a1d74978a"
+  },
+  "date": "2023-10-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 23821570,
+  "total_tax": 1764561,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:54.339Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8ef64c810a1d74978c"
+  },
+  "date": "2023-10-11",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3700778489",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN PHỤ KIỆN VÀ NHÀ THÉP NHẤT",
+  "total_invoices": 1,
+  "total_items": 7,
+  "total_revenue": 21060000,
+  "total_tax": 1560000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:54.751Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8ff64c810a1d74978e"
+  },
+  "date": "2023-10-11",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 8942646,
+  "total_tax": 662418,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:55.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c8ff64c810a1d749790"
+  },
+  "date": "2023-10-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1404000,
+  "total_tax": 104000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:55.564Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c90f64c810a1d749792"
+  },
+  "date": "2023-10-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301471348-001",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY TNHH COSCO SHIPPING LINES (VIỆT NAM) TẠI HẢI PHÒNG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7365000,
+  "total_tax": 545556,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:55.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c90f64c810a1d749794"
+  },
+  "date": "2023-10-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 22780559,
+  "total_tax": 1687449,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:56.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c91f64c810a1d749797"
+  },
+  "date": "2023-10-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0110426168",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CÔNG NGHỆ PCCC VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 648000,
+  "total_tax": 48000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:57.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c91f64c810a1d749799"
+  },
+  "date": "2023-10-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301745020-001",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY BẢO HIỂM QBE VIỆT NAM TẠI HÀ NỘI",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 13240700,
+  "total_tax": 1203700,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:57.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c92f64c810a1d74979b"
+  },
+  "date": "2023-10-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303085570",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY LIÊN DOANH BỘT QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 8640000,
+  "total_tax": 640000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:58.018Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61c92f64c810a1d74979d"
+  },
+  "date": "2023-10-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "5400101273",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 10",
+  "total_invoices": 1,
+  "total_items": 3,
+  "total_revenue": 2592000,
+  "total_tax": 192000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:10:58.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cbff64c810a1d7497a0"
+  },
+  "date": "2023-11-27",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0109850069",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH VINATECHCALL GROUP",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 648000,
+  "total_tax": 48000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:43.282Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cbff64c810a1d7497a2"
+  },
+  "date": "2023-11-23",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301471348-001",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY TNHH COSCO SHIPPING LINES (VIỆT NAM) TẠI HẢI PHÒNG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 12210000,
+  "total_tax": 904444,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:43.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc0f64c810a1d7497a4"
+  },
+  "date": "2023-11-22",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301471348-001",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY TNHH COSCO SHIPPING LINES (VIỆT NAM) TẠI HẢI PHÒNG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 12195000,
+  "total_tax": 903333,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:44.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc0f64c810a1d7497a6"
+  },
+  "date": "2023-11-22",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 3100000,
+  "total_tax": 229629,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:44.512Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc0f64c810a1d7497a8"
+  },
+  "date": "2023-11-20",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1080000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:44.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc1f64c810a1d7497aa"
+  },
+  "date": "2023-11-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "PANDI CLAIMS",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 17169434,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:45.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc1f64c810a1d7497ac"
+  },
+  "date": "2023-11-16",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 22081696,
+  "total_tax": 1635681,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:45.644Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc2f64c810a1d7497ae"
+  },
+  "date": "2023-11-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "ASP TRADE S.A",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 15828960,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:46.457Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc2f64c810a1d7497b1"
+  },
+  "date": "2023-11-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1512000,
+  "total_tax": 112000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:46.865Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc3f64c810a1d7497b3"
+  },
+  "date": "2023-11-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0110426168",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CÔNG NGHỆ PCCC VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1296000,
+  "total_tax": 96000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:47.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc3f64c810a1d7497b5"
+  },
+  "date": "2023-11-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303085570",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY LIÊN DOANH BỘT QUỐC TẾ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 10800000,
+  "total_tax": 800000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:47.548Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc3f64c810a1d7497b7"
+  },
+  "date": "2023-11-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0301471348-001",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH CÔNG TY TNHH COSCO SHIPPING LINES (VIỆT NAM) TẠI HẢI PHÒNG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 7347000,
+  "total_tax": 544222,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:48.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc4f64c810a1d7497ba"
+  },
+  "date": "2023-11-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 13465494,
+  "total_tax": 997444,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:49.178Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc5f64c810a1d7497be"
+  },
+  "date": "2023-10-31",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "5400101273",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 10",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1080000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:49.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc5f64c810a1d7497c0"
+  },
+  "date": "2023-10-31",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0200550498",
+  "month": "2023-10",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH GIÁM ĐỊNH BẢO ĐỊNH",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 16200000,
+  "total_tax": 1200000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:49.832Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc6f64c810a1d7497c2"
+  },
+  "date": "2023-11-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313959186",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CÔNG NGHIỆP UBRO",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1080000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:50.097Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61cc6f64c810a1d7497c4"
+  },
+  "date": "2023-11-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303564453",
+  "month": "2023-11",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN DỊCH VỤ VÀ KỸ THUẬT ĐƯỜNG BIỂN THÁI BÌNH DƯƠNG",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 216000,
+  "total_tax": 16000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:11:50.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d28f64c810a1d7497c6"
+  },
+  "date": "2023-12-27",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 15195600,
+  "total_tax": 1125600,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:29.469Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d28f64c810a1d7497c8"
+  },
+  "date": "2023-12-27",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303163028",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI H.C.E",
+  "total_invoices": 1,
+  "total_items": 3,
+  "total_revenue": 4320000,
+  "total_tax": 320000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:28.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2af64c810a1d7497cd"
+  },
+  "date": "2023-12-27",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0305259631",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CÔNG NGHIỆP KIM BÌNH",
+  "total_invoices": 1,
+  "total_items": 7,
+  "total_revenue": 2937600,
+  "total_tax": 217600,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:29.945Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2af64c810a1d7497cf"
+  },
+  "date": "2023-12-22",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0310524109",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN KỸ THUẬT MÔI TRƯỜNG VIỆT AN",
+  "total_invoices": 1,
+  "total_items": 5,
+  "total_revenue": 2484000,
+  "total_tax": 184000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:30.259Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2af64c810a1d7497d1"
+  },
+  "date": "2023-12-21",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 17795938,
+  "total_tax": 1318218,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:31.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2bf64c810a1d7497d4"
+  },
+  "date": "2023-12-21",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0310153214",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH XÂY DỰNG VÀ KỸ THUẬT LÊ GIA",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1080000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:31.415Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2bf64c810a1d7497d6"
+  },
+  "date": "2023-12-19",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303219270",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH SƠN DA YOUNG VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 756000,
+  "total_tax": 56000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:31.824Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2cf64c810a1d7497d8"
+  },
+  "date": "2023-12-19",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2160000,
+  "total_tax": 160000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:32.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2cf64c810a1d7497da"
+  },
+  "date": "2023-12-19",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3602590993",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH JFE MECHANICAL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 864000,
+  "total_tax": 64000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:32.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2df64c810a1d7497dc"
+  },
+  "date": "2023-12-15",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303163028",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI H.C.E",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1080000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:33.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2df64c810a1d7497de"
+  },
+  "date": "2023-12-15",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "ASP TRADE S.A",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 16333020,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:33.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2df64c810a1d7497e0"
+  },
+  "date": "2023-12-14",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0316016221",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI MOMAI",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 4320000,
+  "total_tax": 320000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:33.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d2ef64c810a1d7497e2"
+  },
+  "date": "2023-12-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 3,
+  "total_revenue": 164257200,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:40.838Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d35f64c810a1d7497f5"
+  },
+  "date": "2023-12-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303163028",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI H.C.E",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 604800,
+  "total_tax": 44800,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:41.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d35f64c810a1d7497f7"
+  },
+  "date": "2023-12-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 11951529,
+  "total_tax": 885298,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:42.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d36f64c810a1d7497fa"
+  },
+  "date": "2023-12-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1080000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:42.473Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d36f64c810a1d7497fc"
+  },
+  "date": "2023-12-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0315339170",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI VINH HIỂN PHÁT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 216000,
+  "total_tax": 16000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:42.887Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d37f64c810a1d7497fe"
+  },
+  "date": "2023-12-01",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 756000,
+  "total_tax": 56000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:43.292Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61d37f64c810a1d749800"
+  },
+  "date": "2023-12-01",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3502236798",
+  "month": "2023-12",
+  "year": "2023",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CJ FOODS VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 4,
+  "total_revenue": 11340000,
+  "total_tax": 840000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:13:43.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61edbf64c810a1d749802"
+  },
+  "date": "2024-03-27",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 14443200,
+  "total_tax": 1069867,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:46.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61edff64c810a1d749803"
+  },
+  "date": "2024-03-26",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 21787200,
+  "total_tax": 1613867,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:47.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee0f64c810a1d749804"
+  },
+  "date": "2024-03-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 8077320,
+  "total_tax": 598320,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:48.455Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee1f64c810a1d749805"
+  },
+  "date": "2024-03-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0100150577-033",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CHI NHÁNH TỔNG CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT DẦU KHÍ VIỆT NAM- CÔNG TY CẢNG DỊCH VỤ DẦU KHÍ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1404000,
+  "total_tax": 104000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:48.969Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee1f64c810a1d749806"
+  },
+  "date": "2024-03-25",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3703133305",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN XÂY DỰNG THÉP XANH",
+  "total_invoices": 1,
+  "total_items": 4,
+  "total_revenue": 3024000,
+  "total_tax": 224000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:49.480Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee2f64c810a1d749807"
+  },
+  "date": "2024-03-21",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 8074080,
+  "total_tax": 598080,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:50.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee3f64c810a1d749808"
+  },
+  "date": "2024-03-21",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 810000,
+  "total_tax": 60000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:51.016Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee3f64c810a1d749809"
+  },
+  "date": "2024-03-21",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0314679463",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ PHÁT TRIỂN KỸ THUẬT CƠ ĐIỆN LẠNH QUANG MINH",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 540000,
+  "total_tax": 40000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:51.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee4f64c810a1d74980a"
+  },
+  "date": "2024-03-21",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3502236798",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CJ FOODS VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 4,
+  "total_revenue": 8100000,
+  "total_tax": 600000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:52.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee4f64c810a1d74980b"
+  },
+  "date": "2024-03-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2500000,
+  "total_tax": 185185,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:52.554Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee5f64c810a1d74980c"
+  },
+  "date": "2024-03-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0109850069",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH VINATECHCALL GROUP",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 648000,
+  "total_tax": 48000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:53.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee5f64c810a1d74980d"
+  },
+  "date": "2024-03-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3703133305",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN XÂY DỰNG THÉP XANH",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 756000,
+  "total_tax": 56000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:53.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee6f64c810a1d74980e"
+  },
+  "date": "2024-03-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303163028",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI H.C.E",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 540000,
+  "total_tax": 40000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:54.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee6f64c810a1d74980f"
+  },
+  "date": "2024-03-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 756000,
+  "total_tax": 56000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:54.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee7f64c810a1d749810"
+  },
+  "date": "2024-03-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3502236798",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CJ FOODS VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 3,
+  "total_revenue": 4860000,
+  "total_tax": 360000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:55.116Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee7f64c810a1d749811"
+  },
+  "date": "2024-03-13",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 34187901,
+  "total_tax": 2532437,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:56.037Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee8f64c810a1d749814"
+  },
+  "date": "2024-03-08",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0303603913",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH TƯ VẤN XÂY DỰNG CƠ ĐIỆN TRƯỜNG NAM HẢI",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 864000,
+  "total_tax": 64000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:56.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee8f64c810a1d749816"
+  },
+  "date": "2024-03-08",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501595378",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT ỐNG THÉP DẦU KHÍ VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 864000,
+  "total_tax": 64000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:56.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee9f64c810a1d749818"
+  },
+  "date": "2024-03-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0313670972",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH LICONIN",
+  "total_invoices": 1,
+  "total_items": 2,
+  "total_revenue": 1512000,
+  "total_tax": 112000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:57.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ee9f64c810a1d74981a"
+  },
+  "date": "2024-03-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0312980932",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH XUẤT NHẬP KHẨU DBK VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 540000,
+  "total_tax": 40000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:57.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61eeaf64c810a1d74981c"
+  },
+  "date": "2024-03-06",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "5400101273",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 10",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2592000,
+  "total_tax": 192000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:58.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61eeaf64c810a1d74981e"
+  },
+  "date": "2024-03-05",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0312980932",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH XUẤT NHẬP KHẨU DBK VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 756000,
+  "total_tax": 56000,
+  "payment_method": "Tiền mặt",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:20:58.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61eebf64c810a1d749820"
+  },
+  "date": "2024-02-29",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2024-02",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 26642000,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:21:00.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61eecf64c810a1d749825"
+  },
+  "date": "2024-03-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 143208000,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:21:04.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ef1f64c810a1d749830"
+  },
+  "date": "2024-03-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 39986369,
+  "total_tax": 2961953,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:21:05.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61ef1f64c810a1d749832"
+  },
+  "date": "2024-03-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "5400101273",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN LILAMA 10",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1620000,
+  "total_tax": 120000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:21:05.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f25f64c810a1d749833"
+  },
+  "date": "2024-04-26",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 11692661,
+  "total_tax": 866123,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:21:59.116Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f27f64c810a1d749835"
+  },
+  "date": "2024-04-18",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0302556989",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VIỆT NAM KỸ NGHỆ BỘT MÌ",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 2500000,
+  "total_tax": 185185,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:21:59.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f28f64c810a1d749837"
+  },
+  "date": "2024-04-18",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0314679463",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ PHÁT TRIỂN KỸ THUẬT CƠ ĐIỆN LẠNH QUANG MINH",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 756000,
+  "total_tax": 56000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:21:59.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f28f64c810a1d749839"
+  },
+  "date": "2024-04-18",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0110426168",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CÔNG NGHỆ PCCC VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 648000,
+  "total_tax": 48000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:00.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f28f64c810a1d74983b"
+  },
+  "date": "2024-04-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3502236798",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH CJ FOODS VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 4,
+  "total_revenue": 9180000,
+  "total_tax": 680000,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:00.753Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f29f64c810a1d74983d"
+  },
+  "date": "2024-04-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3703133305",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN XÂY DỰNG THÉP XANH",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 756000,
+  "total_tax": 56000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:01.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f29f64c810a1d74983f"
+  },
+  "date": "2024-04-17",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0315430630",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN VẬN TẢI XĂNG DẦU VÀ HÀNG HÓA PACIFIC",
+  "total_invoices": 1,
+  "total_items": 3,
+  "total_revenue": 1512000,
+  "total_tax": 112000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:01.570Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f2af64c810a1d749841"
+  },
+  "date": "2024-04-09",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3603024990",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY TNHH MÁY XÂY DỰNG VIỆT NHẬT",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 810000,
+  "total_tax": 60000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:01.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f2af64c810a1d749843"
+  },
+  "date": "2024-04-07",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0310524109",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN KỸ THUẬT MÔI TRƯỜNG VIỆT AN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 4320000,
+  "total_tax": 320000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:02.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f2af64c810a1d749845"
+  },
+  "date": "2024-04-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3501382588",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN CHINA STEEL & NIPPON STEEL VIỆT NAM",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 26714743,
+  "total_tax": 1978870,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:02.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f2bf64c810a1d749847"
+  },
+  "date": "2024-04-03",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "3703133305",
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN XÂY DỰNG THÉP XANH",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1080000,
+  "total_tax": 80000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:03.210Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f2bf64c810a1d749849"
+  },
+  "date": "2024-03-31",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": "0310524109",
+  "month": "2024-03",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "CÔNG TY CỔ PHẦN KỸ THUẬT MÔI TRƯỜNG VIỆT AN",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 1944000,
+  "total_tax": 144000,
+  "payment_method": "TM/CK",
+  "invoice_status": "Hóa đơn đã bị hủy",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:03.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f2cf64c810a1d74984a"
+  },
+  "date": "2024-04-29",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 16768800,
+  "total_tax": 1242133,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:08.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e61f31f64c810a1d74984b"
+  },
+  "date": "2024-04-28",
+  "seller_tax_code": "0302147168",
+  "buyer_tax_code": null,
+  "month": "2024-04",
+  "year": "2024",
+  "seller_name": "CÔNG TY CỔ PHẦN GIÁM ĐỊNH & TƯ VẤN VIỆT",
+  "buyer_name": "WALLEM SHIPPING (THAILAND) LIMITED",
+  "total_invoices": 1,
+  "total_items": 1,
+  "total_revenue": 24660000,
+  "total_tax": 0,
+  "payment_method": "Chuyển khoản",
+  "invoice_status": "Hóa đơn mới",
+  "updated_at": {
+    "$date": "2025-10-08T15:22:11.915Z"
+  }
+}]
